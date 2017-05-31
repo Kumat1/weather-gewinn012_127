@@ -1,0 +1,46 @@
+body.pertama{
+    margin: 0 0 0 0;
+    background: url('picture/bg.jpg');
+	background-size: 100% 100%;
+}
+td.a1{
+    padding-left: 1%;
+    padding-top: 2%;
+    width: 80%;
+}
+input.data{
+    margin-top: 0.5%;
+	height: 30px;
+    width: 96%;
+    border-style: solid;
+    background-color: transparent;
+    border-radius: 10px;
+    padding-left: 1%;
+    font-family: consolas;
+}
+table.kota{
+    margin-top: 15%;
+    width: 32%;
+    padding-bottom: 1.5%;
+}
+table.kota1{
+    margin-top: 50%;
+    width: 32%;
+}
+input.btn{
+    margin-top: 5%;
+    width: 20%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: consolas;
+    font-size: 15pt;
+    font-weight: bold;
+    background-color: transparent;
+    border-color: black;
+    border-radius: 100px;
+    border-width: medium;
+    cursor: pointer;
+}
+input.btn:hover{
+    background-color: rgba(102,102,102,0.5);
+}
